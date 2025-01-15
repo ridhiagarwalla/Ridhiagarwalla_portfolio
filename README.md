@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Portfolio Website
 
 > A clean, beautiful, Responsive Portfolio template!!
@@ -64,3 +65,6 @@ This project is licensed under the Apache-2.0 License - see the [LICENSE.md](./L
 
 
 
+=======
+# Ridhiagarwalla_portfolio
+>>>>>>> fad48fd838826171e587196923f2d48adfd51693
