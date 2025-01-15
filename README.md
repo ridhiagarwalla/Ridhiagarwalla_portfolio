@@ -1,21 +1,7 @@
-<<<<<<< HEAD
+
 # My Portfolio Website
 
 > A clean, beautiful, Responsive Portfolio template!!
-
-> https://rahul15.now.sh/
-
-<p align="center"><img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width = 30%></p>
-
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://rahul15.now.sh/" target="_blank"><img src="images/readme.JPG">
-  </a>
-  </kbd>
-</p>
-
-:star: Star me on GitHub — it helps!
 
 ## Features 📋
 ⚡️ Fully Responsive\
@@ -31,7 +17,6 @@
 ✔️ Interests And Hobbies\
 ✔️ Contact Me
 
-To view a live example, **[click here](https://rahul15.now.sh/)**
 
 ## Want to Contribute 💡
 #### Step 1
@@ -65,6 +50,4 @@ This project is licensed under the Apache-2.0 License - see the [LICENSE.md](./L
 
 
 
-=======
 # Ridhiagarwalla_portfolio
->>>>>>> fad48fd838826171e587196923f2d48adfd51693
